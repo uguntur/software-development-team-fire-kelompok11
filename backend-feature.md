@@ -16,4 +16,4 @@ Backend bertanggung jawab untuk mengelola logika aplikasi dan komunikasi dengan 
 ## Kontribusi
 Membangun API dan mengelola proses pengolahan data pada aplikasi.
 
-revisi dikit2 boleh lah
+revisi dikit2 boleh lah kiw
