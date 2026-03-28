@@ -3,7 +3,7 @@
 ## Nama
 Bagus habib nur yahya
 
-## Peran
+## Perannya
 BackEnd Developer
 
 ## Deskripsi Fitur
