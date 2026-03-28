@@ -15,3 +15,5 @@ Membangun antarmuka website atau aplikasi yang dapat dilihat dan diakses langsun
 
 ## Kontribusi
 Membangun tampilan ringan dan mudah dimengerti oleh pengguna.
+
+revisi dari frontend
